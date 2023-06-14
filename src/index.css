@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.cuadrado {
+  width: 255px;
+  height: 255px;
+  border: 1px solid black;
+  margin: 50px;
+}
